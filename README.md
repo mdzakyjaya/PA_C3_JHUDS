@@ -9,7 +9,7 @@
 Goal | Item
 --- | ---
 Analysis R Script |  run_analysis.R
-Tidy Data Set |  Clean Data Set
+Tidy Data Set |  TidyData.txt
 Github Repo | Repo
 Cookbook | CodeBook.md
-README | ReadingItNow
+README | readme.md
